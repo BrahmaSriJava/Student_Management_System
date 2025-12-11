@@ -1,12 +1,12 @@
 package com.example.rjany.model;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 
 @Entity //mark class as entity
-@Table //defining class name as Table name
+@Table(name="Student_Details") //defining class name as Table name
 public class Student {
 	
 	@Column //defining id as primary key

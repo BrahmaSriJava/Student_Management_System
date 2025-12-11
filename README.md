@@ -81,7 +81,7 @@ Before this we need to save another Student entity.
 **DELETE**
 ![delete](https://user-images.githubusercontent.com/27615818/124886338-f2e4e200-dff5-11eb-87db-6ffd979fb00d.PNG)
 
-That's it for today. Learned a lot!
+That's it for today. Learned a lot!!
 
 
 
